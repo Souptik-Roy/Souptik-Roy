@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souptik Roy</h1>
 <h3 align="center">A passionate AI/ML Engineer with Front-End Skills</h3>
 
-- 🌱 I’m currently learning **dfsadf**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [gdgdfgdgf](gdgdfgdgf)
 
