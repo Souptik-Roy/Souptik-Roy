@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souptik Roy</h1>
-<h3 align="center">A passionate frontend devA passionate AI/ML Engineer with Front-End Skillseloper from India</h3>
+<h3 align="center">A passionate AI/ML Engineer with Front-End Skills</h3>
 
 - 🌱 I’m currently learning **dfsadf**
 
