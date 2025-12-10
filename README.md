@@ -9,11 +9,14 @@
 
 - 👨‍💻 All of my projects are available at [https://souptik-roy-portfolio.netlify.app/](https://souptik-roy-portfolio.netlify.app/)
 
-- 💬 Ask about me **https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/03/30/11/20250330110435-1TJZA0WI.json**
+- 💬 Ask about me **[🤖](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/03/30/11/20250330110435-1TJZA0WI.json)**
 
 - 📫 How to reach me **cs2231.diatm@gmail.com**
-
+<div>
+  <!--
 - ⚡ Fun fact **Contributed to CBS Publisher by finding & reporting errors in an academic book**
+  --->
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
