@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on LawGIC **Legal Guidance System Using Gen-AI**
 
-- 💻 Built Spam Detector [Detects whether a given message is 🚨 Spam or ✅ Not Spam](https://github.com/Souptik-Roy/Spam-Email-Checker.git)
+- 💻 Built [Spam Detector ](https://github.com/Souptik-Roy/Spam-Email-Checker.git)
 
 - 📦 Developed Plasticure **plastic waste classifier and reward generation (Won Excellent Award at college tech fest)**
 
