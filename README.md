@@ -7,7 +7,7 @@
 
 - 📦 Developed Plasticure **plastic waste classifier and reward generation (Won Excellent Award at college tech fest)**
 
-- 👨‍💻 All of my projects are available at [https://souptik-roy-portfolio.netlify.app/](https://souptik-roy-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://souptik-roy-portfolio.netlify.app/)
 
 - 💬 Ask about me **[🤖](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/03/30/11/20250330110435-1TJZA0WI.json)**
 
