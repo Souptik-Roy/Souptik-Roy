@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souptik Roy</h1>
 <h3 align="center">A B.Tech CSE Student | AI/ML Enthusiast & Software Developer</h3>
 
-- 🔭 I’m currently working on  **Legal Guidance System Using Gen-AI**
-
+- 🔭 I’m currently working on  **[Legal Guidance System Using Gen-AI](https://github.com/Souptik-Roy/lawgic-ai-legal-consultant.git)**
 - 💻 Built [Spam Detector ](https://github.com/Souptik-Roy/Spam-Email-Checker.git)
 
 - 📦 Developed Plasticure **plastic waste classifier and reward generation (Won Excellent Award at college tech fest)**
